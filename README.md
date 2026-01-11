@@ -1,4 +1,5 @@
-# eac3-7.1-atmos-fix
+![eac3-7.1-atmos-fix Banner](https://github.com/DRX-Lab/eac3-7.1-atmos-fix/blob/main/ico/eac3-7.1-atmos-fix%20banner.png)
+# 
 
 Bitstream-level patcher for **E-AC-3 JOC (Dolby Atmos) 7.1** streams.  
 Fixes the **channel map (chanmap)** in dependent E-AC-3 frames and rewrites **CRC** to keep the stream valid.  
